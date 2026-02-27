@@ -1,7 +1,17 @@
 {
-  "appEnabled": true,
-  "minVersion": 1,
-  "latestVersion": 1,
-  "forceUpdate": false,
-  "message": "test"
+  "min_version_code": 1,
+  "latest_version_code": 1,
+  "latest_version_name": "1.0.0-beta",
+  "force_update": false,
+  "app_enabled": true,
+  "update_url": "https://play.google.com/store/apps/details?id=com.churfull.mentulapp",
+  "message_es": "Hay una nueva versión disponible. Por favor actualiza.",
+  "message_force_es": "Esta versión ya no es compatible. Debes actualizar para continuar.",
+  "message_disabled_es": "La beta ha finalizado. Gracias por participar.",
+  "show_whats_new": true,
+  "whats_new_es": [
+    "🎨 Nuevo tema oscuro",
+    "🚀 Mejoras de rendimiento",
+    "🐛 Corrección de errores"
+  ]
 }
