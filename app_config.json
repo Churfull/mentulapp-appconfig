@@ -10,8 +10,8 @@
   "message_disabled_es": "La beta ha finalizado. Gracias por participar.",
   "show_whats_new": true,
   "whats_new_es": [
-    "🗺️ Nuevo selector de mapas",
-    "🖼️ Imágenes de Tombstone y Desolation añadidas",
-    "🐛 Corrección de errores"
+    "🗺️ Selección directa de mapas",
+    "🖼️ Imágenes de Lapida y Desolación añadidas",
+    "🐛 Corrección de accesibilidad"
   ]
 }
