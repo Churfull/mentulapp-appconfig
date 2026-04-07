@@ -1,17 +1,17 @@
 {
-  "min_version_code": 1,
-  "latest_version_code": 2,
-  "latest_version_name": "1.1.0-beta",
+  "min_version_code": 2,
+  "latest_version_code": 3,
+  "latest_version_name": "1.2.0-beta",
   "force_update": false,
   "app_enabled": true,
-  "update_url": "https://drive.google.com/uc?export=download&id=1uCp9mKlNh_L1xZmvQjVIdeBpjIUGKeDY",
+  "update_url": "https://drive.google.com/uc?export=download&id=1Ubwdwe9wXApRCdu_JFr9Dd0JtBg9L0rD",
   "message_es": "Hay una nueva versión disponible. Por favor actualiza.",
   "message_force_es": "Esta versión ya no es compatible. Debes actualizar para continuar.",
   "message_disabled_es": "La beta ha finalizado. Gracias por participar.",
   "show_whats_new": true,
-  "whats_new_es": [
-    "🗺️ Selección directa de mapas",
-    "🖼️ Imágenes de Lapida y Desolación añadidas",
-    "🐛 Corrección de accesibilidad"
+  "Que_hay_de_nuevo": [
+    "⭐ Selecciona tus variantes favoritas",
+    "🎨 Color del equipo en las tarjetas de los jugadores",
+    "📱 Ampliada compatibilidad con Android 11"
   ]
 }
