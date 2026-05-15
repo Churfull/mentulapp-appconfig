@@ -1,17 +1,17 @@
 {
   "min_version_code": 1,
-  "latest_version_code": 3,
-  "latest_version_name": "1.2.0-beta",
-  "force_update": false,
+  "latest_version_code": 4,
+  "latest_version_name": "1.3.0-beta",
+  "force_update": true,
   "app_enabled": true,
-  "update_url": "https://drive.google.com/uc?export=download&id=1Ubwdwe9wXApRCdu_JFr9Dd0JtBg9L0rD",
+  "update_url": "https://drive.google.com/uc?export=download&id=1wRIzTbXd96qu9KHxOP4hpiqNBVHw0EWA",
   "message_es": "Hay una nueva versión disponible. Por favor actualiza.",
   "message_force_es": "Esta versión ya no es compatible. Debes actualizar para continuar.",
   "message_disabled_es": "La beta ha finalizado. Gracias por participar.",
   "show_whats_new": true,
   "whats_new_es": [
-    "⭐ Selecciona tus variantes favoritas",
-    "🎨 Color del equipo en las tarjetas de los jugadores",
-    "📱 Ampliada compatibilidad con Android 11"
+    "⚡ Juega cualquier mapa con cualquier variante",
+    "🎨 Mapas Custome ahora seleccionables",
+    "🌍 + de 100 mapas jugables"
   ]
 }
